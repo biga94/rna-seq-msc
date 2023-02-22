@@ -1,3 +1,5 @@
+# RNA-seq project for Transcriptomics part in our Molecular Biotechnology and Bioinformatics Master degree.
+
 For the first part of this project we are asked to work on a human gene expression profiling RNA-Seq dataset composed by 36 samples from 6 tissues.
 
 Of the \~ 56k human genes that are annotated in the GenCode annotation only 28266 high quality genes have been retained. For each sample we have the expression values (read counts) for:
